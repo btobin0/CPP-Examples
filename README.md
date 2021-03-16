@@ -1,5 +1,3 @@
-## This is all about c++.
+## This is all basic c++.
 
-####  There is no real rhyme or reason for this repository except that I just want to learn c++(cpp) and share what I learn. This is all about c++. I post as I learn.
 
-#### This repository is broken up in to branches, so please change branches to see more.
