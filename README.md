@@ -1,7 +1,7 @@
-# CPP-Portfolio
+## This is all about c++.
 
-## This Portfolio is to show my c++ coding abilities. 
+####  There is no real rhyme or reason for this repository except that I just want to learn c++(cpp) and share what I learn. This is all about c++. I post as I learn.
 
-#### Please browse the branches, which right now is main and hedging-trading. 
+#### This repository is broken up in to branches, so please change branches to see more.
 
-#### More branches to come soon, so stay tuned...
+#### More branches to come, stay tuned...
